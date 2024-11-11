@@ -1,0 +1,7 @@
+Instrucciones.
+
+En la carpeta UN DATATHON están los shapefiles utilizados, sin embargo, por fuera de la carpeta están archivos csv y las líneas de código realizadas entre ellos se encuentran 3 archivos .ipynb.
+
+data_csv.ipynb es el código donde leemos todos los archivos csv y se realizan la mayor parte de los procesos de limpieza de los datos, segmentación y normalización 
+data_manage.ipynb se encuentran los mapas.
+Normalizados.ipynb se realiza el proceso para hallar el Tourism impact on quality of life index. 
